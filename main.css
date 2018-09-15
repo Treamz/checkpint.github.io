@@ -255,9 +255,14 @@ footer {
 	justify-content: space-between;
 	align-items: center;
 	flex-direction: row;
+    padding:  50px 0 0 0;
 }
-.firtf {
+.feature {
 	display: inline-block;
+}
+
+.feature i{
+    padding: 10px;
 }
 
 
